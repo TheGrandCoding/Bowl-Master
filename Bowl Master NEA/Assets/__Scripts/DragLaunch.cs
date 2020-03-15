@@ -13,7 +13,7 @@ public class DragLaunch : MonoBehaviour
 	// Use this for initialization
 	void Start () 
 	{
-		ball = GetComponent<Ball> ();
+		ball = GameObject.Find("Ball").GetComponent<Ball>();
 	}
 
 	public void DragStart()
