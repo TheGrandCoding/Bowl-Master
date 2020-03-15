@@ -1,5 +1,5 @@
-# Bowl-Master-NP
-Bowl Master without any prefabs
+# Bowl-Master
+Bowl Master
 
 README
 
